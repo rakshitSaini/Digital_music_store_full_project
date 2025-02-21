@@ -1,5 +1,5 @@
 
-# Chinook  Digital Music Store SQL Analysis
+# Chinook  Digital Music Store SQL Analysis + Power BI Dashboard
 
 ## Project Description
 
@@ -47,7 +47,7 @@ Monthly Sales Trend with Running Total.
 
 top 5 artists by total sales, including a monthly breakdown of their revenue.
 
-# Skills Demonstrated
+# Sql Skills Demonstrated
 
 Complex SQL Joins (INNER JOIN, LEFT JOIN, etc.)
 
