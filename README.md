@@ -61,6 +61,30 @@ Subqueries
 
 Data Filtering (WHERE, HAVING, DISTINCT)
 
+# Power-BI Skills Demonstrated
+
+This project highlights expertise in the following areas:
+
+Power BI Dashboarding: Creating dynamic and interactive visual reports.
+
+Data Cleaning & Transformation: Using Power Query for data preparation.
+
+DAX (Data Analysis Expressions): Writing custom measures and calculated columns.
+
+Data Modeling: Establishing relationships between tables for effective analysis.
+
+SQL & Data Connections: Connecting Power BI to SQL databases and other data sources.
+
+Business Intelligence & Analytics: Extracting insights from data to support decision-making.
+
+# Technologies Used
+
+Sql
+
+Power BI Desktop
+
+
+
 ## Future Improvements
 
 Visualize sales performance using Power BI or Python (Matplotlib, Seaborn).
